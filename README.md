@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Computer Science student at UTFPR and a member of the Programming team in the UTFalcon project.
+- 🔭 I’m a Computer Science student at UTFPR and a member of the Programming team in the UTFalcon Aerodesign extension project.
 - 🌱 I’m currently learning Python, C and Java
 - 🤔 I’m looking for a job
 
