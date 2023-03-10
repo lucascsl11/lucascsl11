@@ -4,5 +4,5 @@
 - Lead of the Programming team in the UTFalcon Aerodesign extension project
 - Trainee in the LAMIA research laboratory of artificial intelligence
 - Currently learning Python, C++, C# and Java
-- Interested in a job as well as more depth in the artificial intelligence and game development fields.
+- Interested in work, as well as more depth of knowledge, in the artificial intelligence and game development fields.
 
