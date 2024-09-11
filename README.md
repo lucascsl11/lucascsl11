@@ -1,7 +1,6 @@
-### Hello.
+### I'm Lucas Leal
 
-- I'm a Computer Science student at UTFPR
-- Former lead of the Programming team in the UTFalcon Aerodesign extension project
-- Machine Learning Intern in the LAMIA research laboratory of artificial intelligence
-- Currently learning Python and its Machine Learning related libraries
-- Interested in work, as well as more depth of knowledge, in the artificial intelligence and game development fields.
+- I like to nerd out and find new things.
+- Former lead of the Programming team in the UTFalcon Aerodesign extension project (2022-2023)
+- I code mostly in Python, but also know a bunch about C, Java and some web development languages like HTML/CSS/JS.
+- Sometimes the fun of the journey lies within being lost and finding yourself.
